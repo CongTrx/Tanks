@@ -1,15 +1,15 @@
 /* 
-    ----------------------------------------------- TankCombat.C -------------------------------------------------------
-    Programmers                 : Andrew Lim, Casey Duncan, Jayden Anderson
+    ----------------------------------------------- TankCombatAI.C -------------------------------------------------------
+    Programmers                 : Cong Truong, Mehul Joshi
     Course Number               : BEE 496, Capstone Project
     Facilitator/Sponsor         : Professor Joseph C. Decuir
     Creation Date               : September 29, 2023
-    Date of Last Modification   : December 10, 2023
+    Date of Last Modification   : June 25, 2024
     --------------------------------------------------------------------------------------------------------------------
     Project Details
         Description             : Tank Combat source code developed using C
         Compiler                : CC65
-        Goal                    : Porting the original Tank Combat from Atari 2600 to Atari 800
+        Goal                    : Creating an AI player 
     --------------------------------------------------------------------------------------------------------------------
     NOTE:
         Code Key:
